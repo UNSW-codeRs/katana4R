@@ -1,6 +1,8 @@
 # katana4R
 Repository containing materials for participants to use Katana with their R analyses
 
+![image](https://user-images.githubusercontent.com/12161802/178669198-0d896c92-12ec-4a71-a4db-172078a6f08b.png)
+
 ### Workshop description
 We live in a data-driven era, where collecting large amounts of information is becoming increasingly more accessible. There is now an unprecedented demand for more flexible and powerful computational tools in order to understand our data. The UNSW Katana computer cluster fulfils this criteria by providing student and staff computational resources to aid their research. One major benefit of Katana is the ability for users to run their computationally heavy analyses remotely - this frees up their own computer for other tasks. While Katana has been described as ‘easy to access’, the initial learning curve can be daunting. In this workshop, I will guide attendees on how to getting started with Katana and how to run analyses on it. I will focus on the application of Katana in the context of ‘R’ analyses, however there over 100 different software available for users to explore. I hope attendees can walk away from this workshop feeling more confident and equipped to use this untapped resource.
 
