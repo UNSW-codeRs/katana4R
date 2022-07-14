@@ -1,0 +1,19 @@
+#!/bin/bash
+
+#PBS -N job_name
+#PBS -l select=1:ncpus=1:mem=1gb
+#PBS -l walltime=00:30:00
+#PBS -M your.name@student.unsw.edu.au
+#PBS -m ae
+
+#Clear Katana workspace
+module purge
+
+#Loading R version
+module add  R/4.0.2
+
+#Navigate to working direction
+cd /srv/scratch/z123456/folder_name
+
+#Run R code
+Rscript R/script_name.R
