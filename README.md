@@ -17,7 +17,7 @@ To apply for an account you can send an email to the UNSW IT Service Center (ITS
 
 
 ### Feedback form:
-Here is the link to the feedbackform: (https://bit.ly/3OeZni8)[https://bit.ly/3OeZni8]
+Here is the link to the feedbackform: https://bit.ly/3OeZni8
 
 ]
 
