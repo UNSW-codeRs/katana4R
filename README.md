@@ -14,3 +14,10 @@ To apply for an account you can send an email to the UNSW IT Service Center (ITS
 
 ### Presenter bio:
 [Fonti](https://fontikar.wordpress.com/) is a postdoctoral research fellow at University of New South Wales, Sydney, Australia. She is an evolutionary biologist at heart but is currently working as an R package developer. Fonti works alongside researchers to develop R software tools for the research community. Her interests include biostatistics, reproducible science, learning about the latest coding practices and teaching others to enjoy using R.
+
+
+### Feedback form:
+Here is the link to the feedbackform: (https://bit.ly/3OeZni8)[https://bit.ly/3OeZni8]
+
+]
+
