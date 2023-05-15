@@ -12,8 +12,8 @@ module purge
 #Loading R version
 module add  R/4.0.2
 
-#Navigate to working direction
-cd /srv/scratch/z123456/folder_name
+#Navigate to working direction # you can use the environment variable $USER (will have the value of your zID)
+cd /srv/scratch/$USER/folder_name
 
 #Run R code
 Rscript R/script_name.R
